@@ -2,9 +2,6 @@
 # Display name
 name: Alex Blumenfeld
 
-# avatar
-avatar: admin/alex.jpg
-
 # Username (this should match the folder name)
 authors:
 - admin
@@ -24,8 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Invasion Biology
 - Social Insects
+- Invasion Biology
 - Population Genetics
 
 education:
@@ -39,11 +36,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/ablumenfeld_cv.pdf
 - icon: envelope
   icon_pack: fas
   link: 'mailto:alex93@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
@@ -53,6 +45,11 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Alexander_Blumenfeld
+  # Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+- icon: cv
+  icon_pack: ai
+  link: files/ablumenfeld_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
