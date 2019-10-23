@@ -68,7 +68,7 @@ email: ""
 user_groups:
 - Postdoctoral Researchers
 ---
-**Biography**
+## **Biography**
 
 I graduated in 2014 with a PhD in Ecology and Evolutionary Biology in Serge Aron’s lab in Brussels, questioning the evolutionary mechanisms underlying the diversity of reproductive strategies uncovered in desert ant species.
 
