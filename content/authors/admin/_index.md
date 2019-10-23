@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Texas A&M University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,6 +49,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=nQyX0eoAAAAJ
 - icon: researchgate
   icon_pack: ai
+  link: https://www.researchgate.net/profile/Alexander_Blumenfeld
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
