@@ -68,6 +68,8 @@ email: ""
 user_groups:
 - Postdoctoral Researchers
 ---
+**Biography**
+
 I graduated in 2014 with a PhD in Ecology and Evolutionary Biology in Serge Aron’s lab in Brussels, questioning the evolutionary mechanisms underlying the diversity of reproductive strategies uncovered in desert ant species.
 
 As a post-doc in Abraham Hefetz’s lab at Tel Aviv University, and at the Museum of Natural History in Paris in Claudie Doums’ lab, I investigated how distinct reproductive strategies, having profound implications in dispersion, differentially shape the exchange of gene flow among populations and, hence speciation processes.
