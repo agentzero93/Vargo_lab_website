@@ -2,6 +2,9 @@
 # Display name
 name: Alex Blumenfeld
 
+# avatar
+avatar: admin/alex.jpg
+
 # Username (this should match the folder name)
 authors:
 - admin
