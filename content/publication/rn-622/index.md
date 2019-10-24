@@ -1,0 +1,13 @@
+---
+title: "Genetic structure of Reticulitermes flavipes and R. virginicus (Isoptera: Rhinotermitidae) colonies in an urban habitat and tracking of colonies following treatment with hexaflumuron bait"
+date: 2003-01-01
+publishDate: 2019-10-24T20:00:16.455212Z
+authors: ["Edward L. Vargo"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Environmental Entomology*"
+url_pdf: "https://doi.org/10.1603/0046-225X-32.5.1271 https://watermark.silverchair.com/ee32-1271.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAl8wggJbBgkqhkiG9w0BBwagggJMMIICSAIBADCCAkEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMuNB4trNd_zu58ggXAgEQgIICEly4yrE5BIrlPUKdg-07V2um1PQ09soZqYhHzxvTMFMQ8TdrIj5WQIwTaeJKj2oI4g2DG6CIIZNB3xyR5vI9SJc45muNTT7CxdCE_pyck3eKEwlhw52w46csQIvNtFaSou4LQGMk6HjVoiY2e-iFp80ghLgePYN37GkkdxnlAJbLDwMLrOC3kcTQ1xbZJtbmMnollqk1ZxKW9g77SJHgPHygOjFiGDPlJ7xEIJemuyqY-9WBarFUGLzuoq27f5Xyyk9Frv4N4Tvqy8v-bqCP_VfFbH9HTDttMUfn2U1OXZx7iNk00Zyt_o7gcmUiwzKhlAVpeot-2FCfdtnZ4SuINRnzYCrxrkLwhWTmOZQZbpcNspm306ebUgKzVAYnaDDYJz9Q04SgmizogPdwitmrfKYIJKlVNjcC-W9ZwWyPp50mvagEyr4UTDRBglHFruLkAm5eaXukgPOksZ7q8NWJhaGyRxa7eHUBJU4bCld6Z9faA6gCtYfXhkDe-G8aaBGL-qixZrnHsPLGPG8ujJg26XBpFarr3jW1eFczTMVHshI784f0u0HGibzWPb9wstoHmJKob1wG8lQwmAZNAnAklKAqrNm1VRnvuXi-Xs2F6I1VONjG01-cI0jsop0qPR5ox2yFjXRl0xsE0ZVh8ppTykWZ1g-MEwDyziIZ_S0nyCNboKxfuOs1AamM2id6tu_oBVAc"
+doi: "10.1603/0046-225x-32.5.1271"
+---
+
