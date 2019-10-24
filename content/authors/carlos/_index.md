@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Termites
-- Behavioral Ecology
 - Disease Ecology
+- The Simpsons
 
 education:
   courses:
