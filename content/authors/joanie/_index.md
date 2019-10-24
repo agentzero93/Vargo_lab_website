@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: MSc in Entomology
-    institution: University of Georgia, Athen
+    institution: University of Georgia, Athens
     year: 2017
   - course: BSc in Biology
     institution: University of Central Florida
