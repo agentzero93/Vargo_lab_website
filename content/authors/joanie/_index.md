@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Alex Blumenfeld
+name: Joanie King
 
 # Username (this should match the folder name)
 authors:
-- admin
+- joanie
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
@@ -21,15 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social Insects
-- Invasion Biology
-- Population Genetics
+- Ants
+- Science Communication
+- Rock Climbing
 
 education:
   courses:
-  - course: BSc in Environmental Science & Resource Management
-    institution: University of Washington, Seattle
-    year: 2016
+  - course: MSc in Entomology
+    institution: University of Georgia, Athen
+    year: 2017
+  - course: BSc in Biology
+    institution: University of Central Florida
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,18 +41,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alex93@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nQyX0eoAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Alexander_Blumenfeld
+  link: 'mailto:joanie_king@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: chrome
+  icon_pack: fab
+  link: https://askentomologists.com
   # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/ablumenfeld_cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/ablumenfeld_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,4 +59,6 @@ email: ""
 user_groups:
 - Graduate Students
 ---
-# Put bio here
+## **Biography**
+
+I completed my M.Sc. in the Entomology Department at the University of Georgia. I researched the genetics involved in the basis of colony social structure in the red imported fire ant (*Solenopsis invicta*). In addition, I also taught a variety of biology and entomology courses, participated in outreach, and became more focused on science communication. Currently, I research the molecular basis of behavioral and physiological manipulation of red imported fire ants (*S. invicta*) by phorid fly parasitoids (*Pseudacteon* sp., decapitating flies), aid in differential gene expression analysis of *Nylanderia fulva* (tawny crazy ants) and am active in science communication.
