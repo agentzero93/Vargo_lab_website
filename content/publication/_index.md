@@ -13,3 +13,4 @@ header:
   caption: ""
   image: ""
 ---
+Thorne, B. L., **E. L. Vargo**, E. S. Adams, and **L. N. L. Johnson**. 2019. Genetic analysis of invasive conehead termites (Blattodea: Termitidae) reveals a single origin for two populations in Florida. **Journal of Economic Entomology**:1-13. DOI: 10.1093/jee/toz227
