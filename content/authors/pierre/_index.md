@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Social Insects
 - Population Genetics
-- Evolutionary Biology
+- Football
 
 education:
   courses:
