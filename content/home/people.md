@@ -22,7 +22,7 @@ subtitle = ""
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = true
+  show_social = false
 
   # Show user's interests? (true/false)
   show_interests = false
@@ -34,7 +34,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
