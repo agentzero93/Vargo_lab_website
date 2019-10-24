@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Alex Blumenfeld
+name: Fabian List
 
 # Username (this should match the folder name)
 authors:
-- admin
+- fabian
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
@@ -22,14 +22,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Social Insects
-- Invasion Biology
-- Population Genetics
+- Genetics
+- Cockroaches
 
 education:
   courses:
-  - course: BSc in Environmental Science & Resource Management
-    institution: University of Washington, Seattle
-    year: 2016
+  - course: MSc in
+    institution:
+    year: 
+  - course: BSc in
+    institution:
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,18 +41,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alex93@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nQyX0eoAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Alexander_Blumenfeld
+  link: 'mailto:fabian.list@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
   # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/ablumenfeld_cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/ablumenfeld_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
