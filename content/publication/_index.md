@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: If you lack access to any of the following journals, contact [Alex](https://vargolab.netlify.com/authors/alex/) for a PDF copy of the article.
 
 # View.
 #   1 = List
