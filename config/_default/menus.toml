@@ -27,3 +27,8 @@
   name = "Publications"
   url = "#publications"
   weight = 50
+
+[[main]]
+  name = "Location"
+  url = "#contact"
+  weight = 60
