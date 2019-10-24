@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Alex Blumenfeld
+name: Madeleine Chura
 
 # Username (this should match the folder name)
 authors:
-- admin
+- madeline
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Student
+role: Technician
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: MSc in Entomology
+    institution: Louisiana State University, Baton Rouge
+    year: 2019
   - course: BSc in Environmental Science & Resource Management
     institution: University of Washington, Seattle
     year: 2016
@@ -38,18 +41,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alex93@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nQyX0eoAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Alexander_Blumenfeld
+  link: 'mailto:mchura@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
   # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/ablumenfeld_cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/ablumenfeld_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -57,6 +54,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Technicians
 ---
 # Put bio here
