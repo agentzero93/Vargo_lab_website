@@ -59,7 +59,7 @@ email: ""
 user_groups:
 - Graduate Students
 ---
-## **Biography*
+## **Biography**
 
 Originally from southern California, I attended the University of Washington, Seattle where I graduated with a BSc in Environmental Science & Resource Management in 2016.
 
