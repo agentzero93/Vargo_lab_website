@@ -17,15 +17,15 @@ subtitle = ""
                  "Postdoctoral Researchers",
                  "Graduate Students",
                  "Undergraduates",
-                 "Staff",
+                 "Technicians",
                  "Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
