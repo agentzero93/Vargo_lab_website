@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Culicoides
 - Vector Biology
-- EGSO
+- Football
 
 education:
   courses:
