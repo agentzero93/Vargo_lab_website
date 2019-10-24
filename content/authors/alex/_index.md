@@ -61,6 +61,6 @@ user_groups:
 ---
 ## **Biography*
 
-Originally from southern California, I attended the University of Washington, Seattle where I graduated with a BS in Environmental Science & Resource Management in 2016.
+Originally from southern California, I attended the University of Washington, Seattle where I graduated with a BSc in Environmental Science & Resource Management in 2016.
 
-My doctoral research focuses upon the invasion biology of the odorous house ant *Tapinoma sessile*, a major urban pest that occurs throughout the continental USA. Although the ant is native to the forests of America, it has successfully invaded and colonized most urban environments across the country. The traits of urban colonies mirror those of invasive ants (e.g. *Nylanderia fulva*, *Linepithema humile*), so T. sessile represents a unique opportunity to study invasive characteristics within a native species.
+My doctoral research focuses upon the invasion biology of the odorous house ant *Tapinoma sessile*, a major urban pest that occurs throughout the continental USA. Although the ant is native to the forests of America, it has successfully invaded and colonized most urban environments across the country. The traits of urban colonies mirror those of invasive ants (e.g. *Nylanderia fulva*, *Linepithema humile*), so *T. sessile* represents a unique opportunity to study invasive characteristics within a native species.
