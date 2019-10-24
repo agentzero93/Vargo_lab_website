@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Alex Blumenfeld
+name: Mark Janowiecki
 
 # Username (this should match the folder name)
 authors:
-- admin
+- mark
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
@@ -21,15 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social Insects
-- Invasion Biology
-- Population Genetics
+- Termites
+- Behavioral Ecology
+- Disney
 
 education:
   courses:
-  - course: BSc in Environmental Science & Resource Management
-    institution: University of Washington, Seattle
-    year: 2016
+  - course: MSc in Entomology
+    institution: University of Arkansas
+    year: 2014
+  - course: BSc in Entomology
+    institution: THE Ohio State University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,18 +41,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alex93@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:janowiecki@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nQyX0eoAAAAJ
+  link: https://scholar.google.com/citations?user=vdHB-vcAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Alexander_Blumenfeld
+  link: https://www.researchgate.net/profile/Mark_Janowiecki
   # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/ablumenfeld_cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/ablumenfeld_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,4 +62,6 @@ email: ""
 user_groups:
 - Graduate Students
 ---
-# Put bio here
+## **Biography**
+
+I am investigating inter- and intraspecific subterranean termite colony interactions. Specifically, my objectives include examining the process of how termite colonies detect nearby colonies, how they distinguish same from unique colonies, and their reactions to opposing colonies. This will include both field and laboratory studies to tease apart these interactions. This project will help to better understand the general biology of subterranean termites and also has the potential application to pest control by potentially manipulating these mechanisms of termite recognition and avoidance.
