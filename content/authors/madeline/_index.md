@@ -21,17 +21,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social Insects
-- Invasion Biology
-- Population Genetics
+  -
+  -
+  -
 
 education:
   courses:
   - course: MSc in Entomology
     institution: Louisiana State University, Baton Rouge
     year: 2019
-  - course: BSc in Environmental Science & Resource Management
-    institution: University of Washington, Seattle
+  - course: BSc in Insect Ecology & BSc in Wildlife Conservation and Ecology
+    institution: University of Delaware
     year: 2016
 
 # Social/Academic Networking
