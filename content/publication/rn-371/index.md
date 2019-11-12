@@ -1,7 +1,7 @@
 ---
 title: "Colony reproduction by budding in the polygyne form of Solenopsis invicta (Hymenoptera: Formicidae)"
 date: 1989-01-01
-publishDate: 2019-11-12T15:06:56.373185Z
+publishDate: 2019-11-12T15:47:41.349800Z
 authors: ["Edward L. Vargo", "Sanford D. Porter"]
 publication_types: ["2"]
 abstract: ""

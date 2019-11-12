@@ -1,7 +1,7 @@
 ---
 title: "Pheromonal and behavioral queen control over the production of gynes in the Argentine ant Iridomyrmex humilis (Mayr)"
 date: 1991-01-01
-publishDate: 2019-11-12T15:06:56.324326Z
+publishDate: 2019-11-12T15:47:41.324616Z
 authors: ["Edward L. Vargo", "Luc Passera"]
 publication_types: ["2"]
 abstract: ""

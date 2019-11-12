@@ -1,7 +1,7 @@
 ---
 title: "Colony-level effects of imidacloprid in subterranean termites (Isoptera: Rhinotermitidae)"
 date: 2010-01-01
-publishDate: 2019-11-12T15:06:55.553256Z
+publishDate: 2019-11-12T15:47:40.737373Z
 authors: ["Vincent Parman", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Upper thermal tolerance of tropical and temperate termite species (Isoptera: Rhinotermitidae, Termitidae): a test of the climate variability hypothesis in termites"
 date: 2019-01-01
-publishDate: 2019-11-12T15:06:55.383279Z
+publishDate: 2019-11-12T15:47:40.635699Z
 authors: ["M. Janowiecki", "E. Clifton", "A. Avalos", "E. L. Vargo"]
 publication_types: ["2"]
 abstract: ""

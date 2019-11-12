@@ -1,7 +1,7 @@
 ---
 title: "Effect of fipronil on subterranean termite colonies (Isoptera: Rhinotermitidae) in the field"
 date: 2012-01-01
-publishDate: 2019-11-12T15:06:56.293339Z
+publishDate: 2019-11-12T15:47:41.307671Z
 authors: ["Edward L. Vargo", "Vincent Parman"]
 publication_types: ["2"]
 abstract: ""

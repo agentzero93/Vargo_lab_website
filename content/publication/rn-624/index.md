@@ -1,7 +1,7 @@
 ---
 title: "Poison gland of queen fire ants (Solenopsis invicta) is the source of a primer pheromone"
 date: 1997-01-01
-publishDate: 2019-11-12T15:06:55.970518Z
+publishDate: 2019-11-12T15:47:41.071408Z
 authors: ["Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

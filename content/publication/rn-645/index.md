@@ -1,7 +1,7 @@
 ---
 title: "Characterization of microsatellites for population genetic analyses of the fungus-growing termite Odontotermes formosanus (Isoptera: Termitidae)"
 date: 2013-01-01
-publishDate: 2019-11-12T15:06:55.308573Z
+publishDate: 2019-11-12T15:47:40.582045Z
 authors: ["Claudia Husseneder", "Susan P. Garner", "Qiuying Huang", "Warren Booth", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

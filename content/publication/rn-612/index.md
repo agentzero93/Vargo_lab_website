@@ -1,7 +1,7 @@
 ---
 title: "Subterranean termite phylogeography reveals multiple postglacial colonization events in southwestern Europe"
 date: 2016-01-01
-publishDate: 2019-11-12T15:06:55.440123Z
+publishDate: 2019-11-12T15:47:40.678367Z
 authors: ["Thomas Lefebvre", "Edward L. Vargo", "Marie Zimmermann", "Simon Dupont", "Magdalena Kutnik", "Anne-Geneviève Bagnères"]
 publication_types: ["2"]
 abstract: ""

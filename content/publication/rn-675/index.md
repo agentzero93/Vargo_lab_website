@@ -1,7 +1,7 @@
 ---
 title: "Differential viability of eggs laid by queens in polygyne colonies of the fire ant, Solenopsis invicta"
 date: 1989-01-01
-publishDate: 2019-11-12T15:06:56.382561Z
+publishDate: 2019-11-12T15:47:41.361489Z
 authors: ["Edward L. Vargo", "Kenneth G. Ross"]
 publication_types: ["2"]
 abstract: ""

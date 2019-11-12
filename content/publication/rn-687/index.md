@@ -1,7 +1,7 @@
 ---
 title: "Molecular markers reveal infestation dynamics of the bed bug (Hemiptera: Cimicidae) within apartment buildings"
 date: 2012-01-01
-publishDate: 2019-11-12T15:06:55.039291Z
+publishDate: 2019-11-12T15:47:40.386072Z
 authors: ["Warren Booth", "Virna L. Saenz", "Richard G. Santangelo", "Changlu Wang", "Coby Schal", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

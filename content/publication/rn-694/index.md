@@ -1,7 +1,7 @@
 ---
 title: "Polymorphic microsatellite loci from an indigenous Asian fungus-growing termite, Macrotermes gilvus (Blattodea: Termitidae) and cross amplification in related taxa"
 date: 2012-01-01
-publishDate: 2019-11-12T15:06:55.779029Z
+publishDate: 2019-11-12T15:47:40.918651Z
 authors: ["G. Veera Singham", "Edward L. Vargo", "Warren Booth", "Ahmad Sofiman Othman", "Chow-Yang Lee"]
 publication_types: ["2"]
 abstract: ""

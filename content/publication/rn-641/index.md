@@ -1,7 +1,7 @@
 ---
 title: "Response of Reticulitermes hesperus (Isoptera: Rhinotermitidae) colonies to baiting with lufenuron in northern California"
 date: 2010-01-01
-publishDate: 2019-11-12T15:06:55.297171Z
+publishDate: 2019-11-12T15:47:40.573237Z
 authors: ["Michael I. Haverty", "Robin L. Tabuchi", "Edward L. Vargo", "David L. Cox", "Lori J. Nelson", "Vernard R. Lewis"]
 publication_types: ["2"]
 abstract: ""

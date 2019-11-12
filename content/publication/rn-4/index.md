@@ -1,7 +1,7 @@
 ---
 title: "Colony and population genetic structure of the Formosan subterranean termite, Coptotermes formosanus, in Japan"
 date: 2003-01-01
-publishDate: 2019-11-12T15:06:56.178057Z
+publishDate: 2019-11-12T15:47:41.244885Z
 authors: ["Edward L. Vargo", "Claudia Husseneder", "J. Kenneth Grace"]
 publication_types: ["2"]
 abstract: ""

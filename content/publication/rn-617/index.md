@@ -1,7 +1,7 @@
 ---
 title: "Extensive mitochondrial heteroplasmy in natural populations of a resurging human pest, the bed bug (Hemiptera: Cimicidae)"
 date: 2015-01-01
-publishDate: 2019-11-12T15:06:55.661988Z
+publishDate: 2019-11-12T15:47:40.818833Z
 authors: ["G. A. Robison", "O. Balvin", "C. Schal", "E. L. Vargo", "W. Booth"]
 publication_types: ["2"]
 abstract: ""

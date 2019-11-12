@@ -1,7 +1,7 @@
 ---
 title: "Ergatoid reproductives in the Neotropical termite Nasutitermes aquilinus (Holmgren) (Blattaria: Isoptera: Termitidae): developmental origin, fecundity, and genetics"
 date: 2019-01-01
-publishDate: 2019-11-12T15:06:55.191684Z
+publishDate: 2019-11-12T15:47:40.494183Z
 authors: ["Iago Bueno da Silva", "Ives Haifig", "Edward L. Vargo", "Fabiana Elaine Casarin", "Marcelo Luiz da Mota", "Juliana Toledo Lima", "Ana Maria Costa-Leonardo"]
 publication_types: ["2"]
 abstract: ""

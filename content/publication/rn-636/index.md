@@ -1,7 +1,7 @@
 ---
 title: "Reproductive development and ontogeny of queen pheromone production in the fire ant Solenopsis invicta"
 date: 1999-01-01
-publishDate: 2019-11-12T15:06:55.983091Z
+publishDate: 2019-11-12T15:47:41.081860Z
 authors: ["Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

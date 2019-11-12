@@ -1,7 +1,7 @@
 ---
 title: "Consecutive virgin births in the New World boid snake, the Colombian rainbow boa, Epicrates maurus"
 date: 2011-01-01
-publishDate: 2019-11-12T15:06:55.021314Z
+publishDate: 2019-11-12T15:47:40.370232Z
 authors: ["Warren Booth", "Larry Million", "R. Graham Reynolds", "Gordon M. Burghardt", "Edward L. Vargo", "Coby Schal", "Athanasia C. Tzika", "Gordon W. Schuett"]
 publication_types: ["2"]
 abstract: ""

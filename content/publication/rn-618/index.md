@@ -1,7 +1,7 @@
 ---
 title: "Host association drives genetic divergence in the bed bug, Cimex lectularius"
 date: 2015-01-01
-publishDate: 2019-11-12T15:06:54.965649Z
+publishDate: 2019-11-12T15:47:40.327482Z
 authors: ["Warren Booth", "Ondřej Balvín", "Edward L. Vargo", "Jitka Vilímová", "Coby Schal"]
 publication_types: ["2"]
 abstract: ""

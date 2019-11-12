@@ -1,7 +1,7 @@
 ---
 title: "Global genetic analysis reveals the putative native source of the invasive termite, Reticulitermes flavipes, in France"
 date: 2013-01-01
-publishDate: 2019-11-12T15:06:55.605861Z
+publishDate: 2019-11-12T15:47:40.770237Z
 authors: ["E. Perdereau", "A. G. Bagneres", "S. Bankhead-Dronnet", "S. Dupont", "M. Zimmermann", "E. L. Vargo", "F. Dedeine"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Relationship between invasion success and colony breeding structure in a subterranean termite"
 date: 2015-01-01
-publishDate: 2019-11-12T15:06:55.620661Z
+publishDate: 2019-11-12T15:47:40.785031Z
 authors: ["E. Perdereau", "A. G. Bagneres", "E. L. Vargo", "G. Baudouin", "Y. Xu", "P. Labadie", "S. Dupont", "F. Dedeine"]
 publication_types: ["2"]
 abstract: ""

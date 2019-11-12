@@ -1,7 +1,7 @@
 ---
 title: "Notes on the biology of the slave-making ant Polyergus lucidus Mayr (Hymenoptera: Formicidae) in Georgia"
 date: 1987-01-01
-publishDate: 2019-11-12T15:06:56.113710Z
+publishDate: 2019-11-12T15:47:41.208423Z
 authors: ["Edward L. Vargo", "Phillip R. Gibbs"]
 publication_types: ["2"]
 abstract: ""

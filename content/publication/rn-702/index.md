@@ -1,7 +1,7 @@
 ---
 title: "Polymorphic microsatellite loci for the ant-garden ant, Crematogaster levior (Forel)"
 date: 2009-01-01
-publishDate: 2019-11-12T15:06:55.095441Z
+publishDate: 2019-11-12T15:47:40.420261Z
 authors: ["Warren Booth", "Elsa Youngsteadt", "Coby Schal", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

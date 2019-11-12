@@ -1,7 +1,7 @@
 ---
 title: "Fusion between southeastern United States Argentine ant colonies and its effect on colony size and productivity"
 date: 2012-01-01
-publishDate: 2019-11-12T15:06:56.403067Z
+publishDate: 2019-11-12T15:47:41.379880Z
 authors: ["Gissella M. Vásquez", "Edward L. Vargo", "Jules Silverman"]
 publication_types: ["2"]
 abstract: ""

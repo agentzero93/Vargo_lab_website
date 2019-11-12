@@ -1,7 +1,7 @@
 ---
 title: "Radiocarbon analysis reveals expanded diet breadth associates with the invasion of a predatory ant"
 date: 2017-01-01
-publishDate: 2019-11-12T15:06:55.796511Z
+publishDate: 2019-11-12T15:47:40.934441Z
 authors: ["Wataru Suehiro", "Fujio Hyodo", "Hiroshi O. Tanaka", "Chihiro Himuro", "Tomoyuki Yokoi", "Shigeto Dobata", "Benoit Guénard", "Robert R. Dunn", "Edward L. Vargo", "Kazuki Tsuji", "Kenji Matsuura"]
 publication_types: ["2"]
 abstract: ""

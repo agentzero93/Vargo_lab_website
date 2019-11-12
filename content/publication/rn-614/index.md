@@ -1,7 +1,7 @@
 ---
 title: "The mating system of white-tailed deer under quality deer management"
 date: 2016-01-01
-publishDate: 2019-11-12T15:06:55.871603Z
+publishDate: 2019-11-12T15:47:41.001956Z
 authors: ["Melissa M. Turner", "Christopher S. Deperno", "Warren Booth", "Edward L. Vargo", "Mark C. Conner", "Richard A. Lancia"]
 publication_types: ["2"]
 abstract: ""

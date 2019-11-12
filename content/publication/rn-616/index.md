@@ -1,7 +1,7 @@
 ---
 title: "Unrelated secondary reproductives in the neotropical termite Silvestritermes euamignathus (Isoptera: Termitidae)"
 date: 2016-01-01
-publishDate: 2019-11-12T15:06:55.280020Z
+publishDate: 2019-11-12T15:47:40.553522Z
 authors: ["Ives Haifig", "Edward L. Vargo", "Paul Labadie", "Ana Maria Costa-Leonardo"]
 publication_types: ["2"]
 abstract: ""

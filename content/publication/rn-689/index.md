@@ -1,7 +1,7 @@
 ---
 title: "Genome size and ploidy of Thysanoptera"
 date: 2013-01-01
-publishDate: 2019-11-12T15:06:55.364474Z
+publishDate: 2019-11-12T15:47:40.621070Z
 authors: ["A. L. Jacobson", "J. S. Johnston", "D. Rotenberg", "A. E. Whitfield", "W. Booth", "E. L. Vargo", "G. G. Kennedy"]
 publication_types: ["2"]
 abstract: ""

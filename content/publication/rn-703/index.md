@@ -1,7 +1,7 @@
 ---
 title: "Queen succession through asexual reproduction in termites"
 date: 2009-01-01
-publishDate: 2019-11-12T15:06:55.509214Z
+publishDate: 2019-11-12T15:47:40.707143Z
 authors: ["Kenji Matsuura", "Edward L. Vargo", "Kazutaka Kawatsu", "Paul E. Labadie", "Hiroko Nakano", "Toshihisa Yashiro", "Kazuki Tsuji"]
 publication_types: ["2"]
 abstract: ""
