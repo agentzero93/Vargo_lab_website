@@ -1,7 +1,7 @@
 ---
 title: "Genetic analysis of colony and population structure of three introduced populations of the Formosan subterranean termite (Isoptera: Rhinotermitidae) in the continental United States"
 date: 2006-01-01
-publishDate: 2019-10-24T18:44:49.206550Z
+publishDate: 2019-11-12T15:06:56.222880Z
 authors: ["Edward L. Vargo", "Claudia Husseneder", "David Woodson", "Michael G. Waldvogel", "J. Kenneth Grace"]
 publication_types: ["2"]
 abstract: ""

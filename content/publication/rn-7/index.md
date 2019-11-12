@@ -1,7 +1,7 @@
 ---
 title: "Colony social organization and population genetic structure of an introduced population of Formosan subterranean termite from New Orleans, Louisiana"
 date: 2005-01-01
-publishDate: 2019-10-24T18:44:48.980868Z
+publishDate: 2019-11-12T15:06:55.320130Z
 authors: ["Claudia Husseneder", "Matthew T. Messenger", "Nan-Yao Su", "J. Kenneth Grace", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

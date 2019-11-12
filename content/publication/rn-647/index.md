@@ -1,7 +1,7 @@
 ---
 title: "Sex ratio biases in termites provide evidence for kin selection"
 date: 2013-01-01
-publishDate: 2019-10-28T21:30:20.166533Z
+publishDate: 2019-11-12T15:06:55.430796Z
 authors: ["Kazuya Kobayashi", "Eisuke Hasegawa", "Yuuka Yamamoto", "Kazutaka Kawatsu", "Edward L. Vargo", "Jin Yoshimura", "Kenji Matsuura"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Evidence of pheromonal queen control over the production of male and female sexuals in the fire ant, Solenopsis invicta"
 date: 1986-01-01
-publishDate: 2019-10-28T21:30:20.214740Z
+publishDate: 2019-11-12T15:06:56.048917Z
 authors: ["Edward L. Vargo", "David J. C. Fletcher"]
 publication_types: ["2"]
 abstract: ""

@@ -1,13 +1,13 @@
 ---
-title: "Hierarchical genetic analysis of German cockroach (Blattella germanica) populations from within buildings to across continents"
-date: 2014-01-01
-publishDate: 2019-10-24T20:00:16.462363Z
-authors: ["Edward L. Vargo", "Jonathan R. Crissman", "Warren Booth", "Richard G. Santangelo", "Dmitry V. Mukha", "Coby Schal"]
+title: "Hierarchial analysis of colony and population genetics structure of the eastern subterranean termite, Reticulitermes flavipes, using two classes of molecular markers"
+date: 2003-01-01
+publishDate: 2019-11-12T15:06:56.010986Z
+authors: ["Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*PLOS ONE*"
-url_pdf: "https://doi.org/10.1371/journal.pone.0102321 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4096728/pdf/pone.0102321.pdf"
-doi: "10.1371/journal.pone.0102321"
+publication: "*Evolution*"
+url_pdf: "https://doi.org/10.1111/j.0014-3820.2003.tb01522.x https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2003.tb01522.x?sid=nlm%3Apubmed"
+doi: "10.1111/j.0014-3820.2003.tb01522.x"
 ---
 

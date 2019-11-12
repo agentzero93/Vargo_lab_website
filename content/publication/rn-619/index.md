@@ -1,13 +1,13 @@
 ---
-title: "Host association drives genetic divergence in the bed bug, Cimex lectularius"
-date: 2015-01-01
-publishDate: 2019-10-24T20:00:16.383882Z
-authors: ["Warren Booth", "Ondřej Balvín", "Edward L. Vargo", "Jitka Vilímová", "Coby Schal"]
+title: "Hierarchical genetic analysis of German cockroach (Blattella germanica) populations from within buildings to across continents"
+date: 2014-01-01
+publishDate: 2019-11-12T15:06:56.033269Z
+authors: ["Edward L. Vargo", "Jonathan R. Crissman", "Warren Booth", "Richard G. Santangelo", "Dmitry V. Mukha", "Coby Schal"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Molecular Ecology*"
-url_pdf: "https://doi.org/10.1111/mec.13086 https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13086"
-doi: "10.1111/mec.13086"
+publication: "*PLOS ONE*"
+url_pdf: "https://doi.org/10.1371/journal.pone.0102321 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4096728/pdf/pone.0102321.pdf"
+doi: "10.1371/journal.pone.0102321"
 ---
 

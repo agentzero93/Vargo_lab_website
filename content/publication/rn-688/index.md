@@ -1,0 +1,13 @@
+---
+title: "Genetic analysis of bed bug populations reveals small propagule size within individual infestations but high genetic diversity across infestations from the eastern United States"
+date: 2012-01-01
+publishDate: 2019-11-12T15:06:55.738039Z
+authors: ["Virna L. Saenz", "Warren Booth", "Coby Schal", "Edward L. Vargo"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Journal of Medical Entomology*"
+url_pdf: "https://doi.org/10.1603/ME11202 https://watermark.silverchair.com/jmedent49-0865.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAm4wggJqBgkqhkiG9w0BBwagggJbMIICVwIBADCCAlAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbOD18UmNuct-RgzrAgEQgIICIeSRihP9mtDqqR0YIefi34HyL-etTKk401L6PG3onNne73LpwGPzE1zyVIkUrCFZz6Ohf_KdTQFE5sH66gh7oJdobc5uMcRNW7wZeylAZ5QhCARzD3Y2iQrEXT4Q8a245YJXzz0rDk78lw3NJorEF6oizLtMPZqr9r7ap8mlnk1Sa4JrO0zEA91JoSsaTA9Q9WNVSO6nVsH8-5iM8spEZ93SSV3q1XFVQUml0JfEXQumbB_rMkszcwVnCyG4zYPMhi3nvv6-aqW-KhDuEeWDPf76nK43NWLEzhxVr8rLyWP8dc2Ln54dLS-F7DymEqkNy2pmQi-_zbjzp1QjgC0veS9eLTpiOdrbpOmFj8bV1VHuV_WvnwStPqzWIkMBdQYppHD-ehQopjCJYfItXVkaB1t4EmxAbhGcTyVYDwRxLkaSw204Bl7cvYazc2OnlvNc70_EDetFuJOg5O3pSFuIrr9RK1zkJ32CtAUd7MYotCvckVyXpDU9EW9IpHwnntuJcfYlhEDj5k0h-K23UOD9VlQpqv2vjV8r1S6Jx1Ij49FWaoipJIp2ir2YfCh66Ls7aCZfAVVMo9rdLb-sJEB2lr1SoDNwjyxprxMSbxPvUMiIjg3IBsVzDWxiauJUNbdaR957hiRWynsn9an9LsnicGThVmmdDkDVYeHRwL3neFBtckI1M_vRrBVVLJWVwH0IKQn0lnKIdRYUDrixuNJNrhXE"
+doi: "10.1603/me11202"
+---
+

@@ -1,13 +1,13 @@
 ---
-title: "Development of a universal double-digest RAD sequencing approach for a group of nonmodel, ecologically and economically important insect and fish taxa"
+title: "Subterranean termite phylogeography reveals multiple postglacial colonization events in southwestern Europe"
 date: 2016-01-01
-publishDate: 2019-10-24T20:00:16.389072Z
-authors: ["M. O. Burford Reiskind", "K. Coyle", "H. V. Daniels", "P. Labadie", "M. H. Reiskind", "N. B. Roberts", "R. B. Roberts", "J. Schaff", "E. L. Vargo"]
+publishDate: 2019-11-12T15:06:55.440123Z
+authors: ["Thomas Lefebvre", "Edward L. Vargo", "Marie Zimmermann", "Simon Dupont", "Magdalena Kutnik", "Anne-Geneviève Bagnères"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Molecular Ecology Resources*"
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12527 https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12527"
-doi: "10.1111/1755-0998.12527"
+publication: "*Ecology and Evolution*"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.2333 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4983608/pdf/ECE3-6-5987.pdf"
+doi: "10.1002/ece3.2333"
 ---
 

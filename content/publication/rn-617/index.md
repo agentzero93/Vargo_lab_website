@@ -1,13 +1,13 @@
 ---
-title: "Unrelated secondary reproductives in the neotropical termite Silvestritermes euamignathus (Isoptera: Termitidae)"
-date: 2016-01-01
-publishDate: 2019-10-24T20:00:16.402475Z
-authors: ["Ives Haifig", "Edward L. Vargo", "Paul Labadie", "Ana Maria Costa-Leonardo"]
+title: "Extensive mitochondrial heteroplasmy in natural populations of a resurging human pest, the bed bug (Hemiptera: Cimicidae)"
+date: 2015-01-01
+publishDate: 2019-11-12T15:06:55.661988Z
+authors: ["G. A. Robison", "O. Balvin", "C. Schal", "E. L. Vargo", "W. Booth"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*The Science of Nature*"
-url_pdf: "https://doi.org/10.1007/s00114-015-1325-0 https://link.springer.com/content/pdf/10.1007%2Fs00114-015-1325-0.pdf"
-doi: "10.1007/s00114-015-1325-0"
+publication: "*Journal of Medical Entomology*"
+url_pdf: "https://doi.org/10.1093/jme/tjv055 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592348/pdf/tjv055.pdf"
+doi: "10.1093/jme/tjv055"
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Novel use of aliphatic n-methyl ketones as a fumigant and alternative to methyl bromide for insect control"
-date: 2018-01-01
-publishDate: 2019-10-24T20:00:16.472140Z
-authors: ["Jiwei Zhu", "Anirudh Dhammi", "Jaap B van Kretschmar", "Edward L Vargo", "Charles S Apperson", "R Michael Roe"]
+title: "Development of a universal double-digest RAD sequencing approach for a group of nonmodel, ecologically and economically important insect and fish taxa"
+date: 2016-01-01
+publishDate: 2019-11-12T15:06:55.129825Z
+authors: ["M. O. Burford Reiskind", "K. Coyle", "H. V. Daniels", "P. Labadie", "M. H. Reiskind", "N. B. Roberts", "R. B. Roberts", "J. Schaff", "E. L. Vargo"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Pest Management Science*"
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ps.4749 https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4749"
-doi: "10.1002/ps.4749"
+publication: "*Molecular Ecology Resources*"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12527 https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12527"
+doi: "10.1111/1755-0998.12527"
 ---
 

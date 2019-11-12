@@ -1,13 +1,13 @@
 ---
-title: "Extensive mitochondrial heteroplasmy in natural populations of a resurging human pest, the bed bug (Hemiptera: Cimicidae)"
+title: "Host association drives genetic divergence in the bed bug, Cimex lectularius"
 date: 2015-01-01
-publishDate: 2019-10-24T20:00:16.434476Z
-authors: ["G. A. Robison", "O. Balvin", "C. Schal", "E. L. Vargo", "W. Booth"]
+publishDate: 2019-11-12T15:06:54.965649Z
+authors: ["Warren Booth", "Ondřej Balvín", "Edward L. Vargo", "Jitka Vilímová", "Coby Schal"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Medical Entomology*"
-url_pdf: "https://doi.org/10.1093/jme/tjv055 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592348/pdf/tjv055.pdf"
-doi: "10.1093/jme/tjv055"
+publication: "*Molecular Ecology*"
+url_pdf: "https://doi.org/10.1111/mec.13086 https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13086"
+doi: "10.1111/mec.13086"
 ---
 

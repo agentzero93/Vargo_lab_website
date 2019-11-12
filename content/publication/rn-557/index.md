@@ -1,7 +1,7 @@
 ---
 title: "Queen and king recognition in the subterranean termite, Reticulitermes flavipes: evidence for royal recognition pheromones"
 date: 2019-01-01
-publishDate: 2019-10-24T18:44:48.955050Z
+publishDate: 2019-11-12T15:06:55.268482Z
 authors: ["Colin F. Funaro", "Coby Schal", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

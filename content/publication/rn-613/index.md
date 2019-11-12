@@ -1,13 +1,13 @@
 ---
-title: "Subterranean termite phylogeography reveals multiple postglacial colonization events in southwestern Europe"
+title: "New introductions, spread of existing matrilines, and high rates of pyrethroid resistance result in chronic infestations of bed bugs (Cimex lectularius L.) in lower-income housing"
 date: 2016-01-01
-publishDate: 2019-10-24T20:00:16.416738Z
-authors: ["Thomas Lefebvre", "Edward L. Vargo", "Marie Zimmermann", "Simon Dupont", "Magdalena Kutnik", "Anne-Geneviève Bagnères"]
+publishDate: 2019-11-12T15:06:55.635415Z
+authors: ["Ronald W. Raab", "Julia E. Moore", "Edward L. Vargo", "Lucy Rose", "Julie Raab", "Madeline Culbreth", "Gracie Burzumato", "Aurvan Koyee", "Brittany McCarthy", "Jennifer Raffaele", "Coby Schal", "Rajeev Vaidyanathan"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Ecology and Evolution*"
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.2333 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4983608/pdf/ECE3-6-5987.pdf"
-doi: "10.1002/ece3.2333"
+publication: "*PLOS ONE*"
+url_pdf: "https://doi.org/10.1371/journal.pone.0117805 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763143/pdf/pone.0117805.pdf"
+doi: "10.1371/journal.pone.0117805"
 ---
 

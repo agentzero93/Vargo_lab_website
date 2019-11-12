@@ -1,13 +1,13 @@
 ---
-title: "Radiocarbon analysis reveals expanded diet breadth associates with the invasion of a predatory ant"
-date: 2017-01-01
-publishDate: 2019-10-24T20:00:16.440944Z
-authors: ["Wataru Suehiro", "Fujio Hyodo", "Hiroshi O. Tanaka", "Chihiro Himuro", "Tomoyuki Yokoi", "Shigeto Dobata", "Benoit Guénard", "Robert R. Dunn", "Edward L. Vargo", "Kazuki Tsuji", "Kenji Matsuura"]
+title: "Novel use of aliphatic n-methyl ketones as a fumigant and alternative to methyl bromide for insect control"
+date: 2018-01-01
+publishDate: 2019-11-12T15:06:56.464735Z
+authors: ["Jiwei Zhu", "Anirudh Dhammi", "Jaap B van Kretschmar", "Edward L Vargo", "Charles S Apperson", "R Michael Roe"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Scientific Reports*"
-url_pdf: "https://doi.org/10.1038/s41598-017-15105-1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5670172/pdf/41598_2017_Article_15105.pdf"
-doi: "10.1038/s41598-017-15105-1"
+publication: "*Pest Management Science*"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ps.4749 https://onlinelibrary.wiley.com/doi/full/10.1002/ps.4749"
+doi: "10.1002/ps.4749"
 ---
 

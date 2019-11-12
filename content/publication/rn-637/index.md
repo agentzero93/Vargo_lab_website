@@ -1,7 +1,7 @@
 ---
 title: "Juvenile hormone in adult eusocial Hymenoptera: gonadotropin and behavioral pacemaker"
 date: 1997-01-01
-publishDate: 2019-10-28T21:30:20.181304Z
+publishDate: 2019-11-12T15:06:55.651027Z
 authors: ["Gene E. Robinson", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

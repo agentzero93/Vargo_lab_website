@@ -1,7 +1,7 @@
 ---
 title: "Genetic analysis of invasive conehead termites (Blattodea: Termitidae) reveals a single origin for two populations in Florida"
 date: 2019-01-01
-publishDate: 2019-10-24T18:44:49.111718Z
+publishDate: 2019-11-12T15:06:55.842567Z
 authors: ["Barbara L Thorne", "Edward L Vargo", "Eldridge S Adams", "Laura N L Johnson"]
 publication_types: ["2"]
 abstract: ""

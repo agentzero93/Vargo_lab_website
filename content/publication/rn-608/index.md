@@ -1,13 +1,12 @@
 ---
-title: "Upper thermal tolerance of tropical and temperate termite species (Isoptera: Rhinotermitidae, Termitidae): a test of the climate variability hypothesis in termites"
-date: 2019-01-01
-publishDate: 2019-10-24T20:00:16.407537Z
-authors: ["M. Janowiecki", "E. Clifton", "A. Avalos", "E. L. Vargo"]
+title: "Efficacy of chlorantraniliprole in controlling structural infestations of the Eastern subterranean termite in the USA"
+date: 2017-01-01
+publishDate: 2019-11-12T15:06:55.398762Z
+authors: ["Susan C. Jones", "Edward L. Vargo", "T. Chris Keefer", "Paul Labadie", "Clay W. Scherer", "Nicola T. Gallagher", "Roger E. Gold"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Insectes Sociaux*"
-url_pdf: "https://doi.org/10.1007/s00040-019-00727-7"
-doi: "10.1007/s00040-019-00727-7"
+publication: "*Insects*"
+url_pdf: "https://www.mdpi.com/2075-4450/8/3/92"
 ---
 

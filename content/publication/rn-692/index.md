@@ -1,0 +1,13 @@
+---
+title: "Effect of fipronil on subterranean termite colonies (Isoptera: Rhinotermitidae) in the field"
+date: 2012-01-01
+publishDate: 2019-11-12T15:06:56.293339Z
+authors: ["Edward L. Vargo", "Vincent Parman"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Journal of Economic Entomology*"
+url_pdf: "https://doi.org/10.1603/EC11155 https://watermark.silverchair.com/jee105-0523.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAm0wggJpBgkqhkiG9w0BBwagggJaMIICVgIBADCCAk8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDStUf_W4yh2iT2oBAgEQgIICIL2Qp4I8WiaDfCNQTDpx7IsxaBP-UCEwNK-40ey1m0Nad86UToWokDIluQd4VjnvORa5xo5f2WFLTRUzG79MwWD5go3yTlhT43OK9E2EuaK3sjOti_8ZgkQmhQd80_hL_BBdGWH-7MK6mkHobJgchxrlaLNhbQLf2byFxtqTf6kh0VK-u41Hi6x9n9VZSQo_aFXHql9TskbEfLjVT-0PsVCmQsnE5dAoqxPE0St_i_OLVdllOWlRyRyPIi6d0mEY6yP0StL-UWlrmc4ozHe2mTIHfBnuQsz2qUWeu9nMLgf3pkvTBeRfumBf4cDPw9tvtNaz3vZGRDX7dUB4md3cNepiYPScfRzErpSRSNgBjch2wYTYWzU--yTZ2B2B9HmJU1ESPGbgq4aT3CBkSEqMFJiW6CdosvcjlMM4iVKBQesUzKAT3nBtyPllGJwD0wUo8vdnz8pJkEBAKWudPxaouku63Y-ps_s1rBgeA75QBagcESGoAwBBX2-p-ev0GVNQed8pOowyDGaFPOhfVxfTzGaSSlsKrVAy-7XhiZqmDgv5-FEXQSH2wlwBFuodbnqejYIyXZ56oyJ5hkk_trtryuydMdn7SVJjgrJD_HE4cDR-fpAQpXpA767OAfdddAHdb_qvovNtmFP-qIRzq7fCkPo1dMZHHK_kimEs1TY11IBWkYKf6QQD9IRgW8Uc5TJl7sqm61mM-tAxkRjR4SF-9ik"
+doi: "10.1603/ec11155"
+---
+

@@ -1,11 +1,13 @@
 ---
-title: "Effect of pleometrosis and colony size on the production of sexuals in monogyne colonies of the fire ant Solenopsis invicta"
-date: 1988-01-01
-publishDate: 2019-11-11T23:24:09.151969Z
-authors: ["Edward L. Vargo"]
-publication_types: ["6"]
+title: "Fusion between southeastern United States Argentine ant colonies and its effect on colony size and productivity"
+date: 2012-01-01
+publishDate: 2019-11-12T15:06:56.403067Z
+authors: ["Gissella M. Vásquez", "Edward L. Vargo", "Jules Silverman"]
+publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Advances in Myrmecology*"
+publication: "*Annals of the Entomological Society of America*"
+url_pdf: "https://doi.org/10.1603/AN11114 https://watermark.silverchair.com/aesa105-0268.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnAwggJsBgkqhkiG9w0BBwagggJdMIICWQIBADCCAlIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUHRdJ26kGR-UKHpSAgEQgIICI5ewwRejLdNqct8rvcnW3xU4a5kqSYQZ28zCBqm8Cra4YdyFHt80tO4Ko-78Bi9iZbXuVze6QySJgcEgF0Hu9lMMD7YacabOmTmEdgJBXszsBKPv_howNQxHjAdYYTegUvJeCPbXLr1REsPxVSmT2V0uEAELln9Y4_ReUq-ZW_UVoxkJ3DNpspiyL5KuPesuPmsgDPKG2q38xqM9m-EaR8-AvcIW59FBxurkY46xv_wmagIlJL07qT8z17jvtKGzMAbbpHkAvOA1jx_S7ImgzSLlmXpWRWv2aA13a_HbpWvZsxMYlhCfwJpognO1pmnkYas-e1v7OOzx7btKpgswKXWRZsfhWhD7VBcczQKq5SLzaDIBQuuQ4ZII7tUB7sF3efGICXXd9zg2VSsvVt8RWhgpAFQc6sRzpwITwZgsAh-O-m43b8qka2asLmr-wZtZCMPvwzrVN4nrRu7LYsIkqZz1hkud0GERHugtxPEvyWrqKw9KmTluGfmOoQKrzOTo7wkm0UhXJVV6I0tl5EAHoN1l6fU5ru8JoXhfYCA6CIh3JIPntyVQKlod-6kOQikIpGveXP1Ruzb5HsEaNSWYrGheQV8193qj5QlX73H1aKDK6Oyh5jekuEw0wsZ3AgYfNKRpQofQGWixjXAbmf4CEkYEJxqLjRvYBcniMdBCyBWtBHlsNwK1PryUlmwmibzVS3ZzusUXFZsR13XtJ4yTYpxCVdg"
+doi: "10.1603/an11114"
 ---
 

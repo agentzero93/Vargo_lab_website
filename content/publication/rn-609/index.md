@@ -1,12 +1,13 @@
 ---
-title: "Efficacy of chlorantraniliprole in controlling structural infestations of the Eastern subterranean termite in the USA"
+title: "Radiocarbon analysis reveals expanded diet breadth associates with the invasion of a predatory ant"
 date: 2017-01-01
-publishDate: 2019-10-24T20:00:16.410515Z
-authors: ["Susan C. Jones", "Edward L. Vargo", "T. Chris Keefer", "Paul Labadie", "Clay W. Scherer", "Nicola T. Gallagher", "Roger E. Gold"]
+publishDate: 2019-11-12T15:06:55.796511Z
+authors: ["Wataru Suehiro", "Fujio Hyodo", "Hiroshi O. Tanaka", "Chihiro Himuro", "Tomoyuki Yokoi", "Shigeto Dobata", "Benoit Guénard", "Robert R. Dunn", "Edward L. Vargo", "Kazuki Tsuji", "Kenji Matsuura"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Insects*"
-url_pdf: "https://www.mdpi.com/2075-4450/8/3/92"
+publication: "*Scientific Reports*"
+url_pdf: "https://doi.org/10.1038/s41598-017-15105-1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5670172/pdf/41598_2017_Article_15105.pdf"
+doi: "10.1038/s41598-017-15105-1"
 ---
 

@@ -1,13 +1,11 @@
 ---
-title: "On the relationship between queen number and fecundity in polygyne colonies of the fire ant Solenopsis invicta"
-date: 1989-01-01
-publishDate: 2019-11-11T23:24:09.165450Z
-authors: ["Edward L. Vargo", "David J. C. Fletcher"]
+title: "Carbohydrates as energy source during the flight of sexuals of the ant Formica lugubris (Hymenoptera: Formicidae)"
+date: 1990-01-01
+publishDate: 2019-11-12T15:06:55.586577Z
+authors: ["L. Passera", "Laurent Keller", "A. Grimal", "D. Chautems", "Daniel Cherix", "David Fletcher", "W. Fortelius", "R. Rosengren", "Edward Vargo"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Physiological Entomology*"
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3032.1989.tb00955.x"
-doi: "10.1111/j.1365-3032.1989.tb00955.x"
+publication: "*Entomologia Generalis*"
 ---
 
