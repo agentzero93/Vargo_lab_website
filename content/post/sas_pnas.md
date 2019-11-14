@@ -1,6 +1,6 @@
 ---
 title: New paper out in PNAS reporting the first evidence of sexually antagonistic selection in Hymenoptera
-image: F1.medium.gif
+image: https://github.com/agentzero93/Vargo_lab_website/blob/master/static/img/F1.medium.gif?raw=true
 
 # View.
 #   1 = List
