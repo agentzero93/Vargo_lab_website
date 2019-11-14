@@ -67,5 +67,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-See our full list of publications [here]({{< ref "/publication/_index.md" >}}).
+Our full [list of publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
