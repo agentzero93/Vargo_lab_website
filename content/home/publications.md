@@ -8,7 +8,9 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "{{% alert note %}}
+            See our full list of publications [here]({{< ref "/publication/_index.md" >}}).
+            {{% /alert %}}"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
