@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+# role:
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio:
 
 # interests:
 
@@ -38,4 +38,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 # user_groups:
 ---
-# Put bio here
+# Website under construction
