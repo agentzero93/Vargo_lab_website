@@ -5,12 +5,12 @@ title: New paper out in PNAS reporting the first evidence of sexually antagonist
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 3
+view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "F1.medium.gif"
+  image: ""
 ---
 A study led by our talented post-doc [Pierre-André Eyer](https://vargolab.netlify.com/authors/pierre/) on the invasive tawny crazy ant *Nylanderia fulva* :ant: was recently published in PNAS. We thought the two tweets below summarized the paper nicely:
 
