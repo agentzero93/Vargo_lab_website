@@ -23,7 +23,7 @@ bio: My research interests include invasive species, population genetics and bio
 interests:
 - Social Insects
 - Invasion Biology
-- Basketball/Golf :basketball: :golf:
+- Basketball/Golf
 
 education:
   courses:
