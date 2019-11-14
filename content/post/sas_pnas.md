@@ -1,5 +1,5 @@
 ---
-title: New paper out in PNAS reporting the first evidence of sexually antagonistic selection in Hymenoptera :ant:
+title: New paper out in PNAS reporting the first evidence of sexually antagonistic selection in Hymenoptera
 
 # View.
 #   1 = List
@@ -12,7 +12,7 @@ header:
   caption: ""
   image: "F1.large.jpg"
 ---
-A study led by our talented post-doc [Pierre-André Eyer](https://vargolab.netlify.com/authors/pierre/) on the invasive tawny crazy ant *Nylanderia fulva* was recently published in PNAS. We thought the two tweets below summarized the paper nicely :point_down:
+A study led by our talented post-doc [Pierre-André Eyer](https://vargolab.netlify.com/authors/pierre/) on the invasive tawny crazy ant *Nylanderia fulva* :ant: was recently published in PNAS. We thought the two tweets below summarized the paper nicely:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ok, this is bizarre. According to new research, there are genes in ants with alleles that help males but kill females, and vice versa, leading to downstream consequences like higher genetic diversity and patterns strongly distorted from what we&#39;d expect in normal inheritance. <a href="https://t.co/3WnosubrPk">https://t.co/3WnosubrPk</a></p>&mdash; Alex Wild (@Myrmecos) <a href="https://twitter.com/Myrmecos/status/1194331025171767296?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
