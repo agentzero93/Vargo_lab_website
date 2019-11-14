@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Ants
 - Science Communication
-- Rock Climbing
+- Rock Climbing 🧗‍♀️
 
 education:
   courses:
