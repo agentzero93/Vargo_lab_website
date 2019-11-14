@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social Insects
-- Invasion Biology
-- Basketball/Golf
+- Taxonomy
+- Molecular Ecology
+- Swimming :swimmer:
 
 education:
   courses:
