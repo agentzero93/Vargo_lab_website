@@ -23,7 +23,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Urban Entomology
 - Invasion Species Ecology
-- Bass fishing :fishing_pole_and_fish:
+- Bass fishing
+
 education:
   courses:
   - course: PhD in Entomology
