@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Urban Entomology
 - Social Insects
-- Cycling :bicyclist:
+- Cycling
 
 education:
   courses:
