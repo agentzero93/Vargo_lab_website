@@ -1,5 +1,5 @@
 ---
-title: New paper out in PNAS reporting the first evidence of sexually antagonistic selection in Hymenoptera (:ant:)
+title: New paper out in PNAS reporting the first evidence of sexually antagonistic selection in Hymenoptera :ant:
 
 # View.
 #   1 = List
