@@ -10,7 +10,7 @@ view: 3
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "F1.large.jpg"
+  image: ""
 ---
 A study led by our talented post-doc [Pierre-André Eyer](https://vargolab.netlify.com/authors/pierre/) on the invasive tawny crazy ant *Nylanderia fulva* :ant: was recently published in PNAS. We thought the two tweets below summarized the paper nicely:
 
