@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Termites
 - Behavioral Ecology
-- Disney :european_castle:
+- Disney
 
 education:
   courses:
