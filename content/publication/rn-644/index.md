@@ -1,7 +1,7 @@
 ---
 title: "Group living accelerates bed bug (Hemiptera: Cimicidae) development"
 date: 2014-01-01
-publishDate: 2019-11-12T15:47:40.905308Z
+publishDate: 2020-06-12T04:08:35.106875Z
 authors: ["Virna L. Saenz", "Richard G. Santangelo", "Edward L. Vargo", "Coby Schal"]
 publication_types: ["2"]
 abstract: ""

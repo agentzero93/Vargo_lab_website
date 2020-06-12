@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical genetic analysis of German cockroach (Blattella germanica) populations from within buildings to across continents"
 date: 2014-01-01
-publishDate: 2019-11-12T15:47:41.138552Z
+publishDate: 2020-06-12T04:08:35.447436Z
 authors: ["Edward L. Vargo", "Jonathan R. Crissman", "Warren Booth", "Richard G. Santangelo", "Dmitry V. Mukha", "Coby Schal"]
 publication_types: ["2"]
 abstract: ""

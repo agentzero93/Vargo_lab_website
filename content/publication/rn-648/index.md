@@ -1,7 +1,7 @@
 ---
 title: "Thrips tabaci population genetic structure and polyploidy in relation to competency as a vector of tomato spotted wilt virus"
 date: 2013-01-01
-publishDate: 2019-11-12T15:47:40.612277Z
+publishDate: 2020-06-12T04:08:34.692412Z
 authors: ["Alana L. Jacobson", "Warren Booth", "Edward L. Vargo", "George G. Kennedy"]
 publication_types: ["2"]
 abstract: ""

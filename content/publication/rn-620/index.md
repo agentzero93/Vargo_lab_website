@@ -1,7 +1,7 @@
 ---
 title: "Hierarchial analysis of colony and population genetics structure of the eastern subterranean termite, Reticulitermes flavipes, using two classes of molecular markers"
 date: 2003-01-01
-publishDate: 2019-11-12T15:47:41.112830Z
+publishDate: 2020-06-12T04:08:35.404119Z
 authors: ["Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Bugs, baits, and bureaucracy: completing the first termite bait efficacy trials (quarterly replenishment of noviflumuron) initiated after adoption of Florida Rule, Chapter 5E-2.0311"
 date: 2009-01-01
-publishDate: 2019-11-12T15:47:40.955151Z
+publishDate: 2020-06-12T04:08:35.196321Z
 authors: ["E. M. Thoms", "J. E. Eger", "M. T. Messenger", "E. Vargo", "B. Cabrera", "C. Riegel", "S. Murphree", "J. Mauldin", "P. Scherer"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Genetic diversity and colony structure of Tapinoma melanocephalum on the islands and mainland of South China"
 date: 2018-01-01
-publishDate: 2019-11-12T15:47:41.408408Z
+publishDate: 2020-06-12T04:08:35.817333Z
 authors: ["Chunyan Zheng", "Fan Yang", "Ling Zeng", "Edward L. Vargo", "Yijuan Xu"]
 publication_types: ["2"]
 abstract: ""

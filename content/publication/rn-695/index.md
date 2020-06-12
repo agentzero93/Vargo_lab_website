@@ -1,7 +1,7 @@
 ---
 title: "Asexual queen succession in the subterranean termite Reticulitermes virginicus"
 date: 2012-01-01
-publishDate: 2019-11-12T15:47:41.283936Z
+publishDate: 2020-06-12T04:08:35.665738Z
 authors: ["Edward L. Vargo", "Paul E. Labadie", "Kenji Matsuura"]
 publication_types: ["2"]
 abstract: ""

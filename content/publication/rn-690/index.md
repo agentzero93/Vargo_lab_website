@@ -1,7 +1,7 @@
 ---
 title: "Clinal variation in colony breeding structure and level of inbreeding in the subterranean termites Reticulitermes flavipes and R. grassei"
 date: 2013-01-01
-publishDate: 2019-11-12T15:47:41.296149Z
+publishDate: 2020-06-12T04:08:35.691427Z
 authors: ["Edward L. Vargo", "Laurianne Leniaud", "Lois E. Swoboda", "Sarah E. Diamond", "Michael D. Weiser", "Dini M. Miller", "Anne-Geneviève Bagnères"]
 publication_types: ["2"]
 abstract: ""

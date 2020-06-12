@@ -1,7 +1,7 @@
 ---
 title: "Biology of subterranean termites: insights from molecular studies of Reticulitermes and Coptotermes"
 date: 2009-01-01
-publishDate: 2019-11-12T15:47:41.234186Z
+publishDate: 2020-06-12T04:08:35.561711Z
 authors: ["Edward L. Vargo", "Claudia Husseneder"]
 publication_types: ["2"]
 abstract: ""

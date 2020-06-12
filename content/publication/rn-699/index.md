@@ -1,7 +1,7 @@
 ---
 title: "Genetic structure of termite colonies and populations"
 date: 2011-01-01
-publishDate: 2019-11-12T15:47:41.014718Z
+publishDate: 2020-06-12T04:08:35.270999Z
 authors: ["Edward Vargo", "Claudia Husseneder"]
 publication_types: ["6"]
 abstract: ""

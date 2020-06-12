@@ -1,7 +1,7 @@
 ---
 title: "A bioassay for a primer pheromone of queen fire ants (Solenopsis invicta) which inhibits the production of sexuals"
 date: 1988-01-01
-publishDate: 2019-11-12T15:47:41.040856Z
+publishDate: 2020-06-12T04:08:35.309034Z
 authors: ["E. L. Vargo"]
 publication_types: ["2"]
 abstract: ""

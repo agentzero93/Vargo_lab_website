@@ -1,7 +1,7 @@
 ---
 title: "Alternative reproductive strategies in Formica lugubris Zett. (Hymenoptera Formicidae)"
 date: 1991-01-01
-publishDate: 2019-11-12T15:47:40.455254Z
+publishDate: 2020-06-12T04:08:34.421881Z
 authors: ["D. Cherix", "D. Chautems", "D. J. C. Fletcher", "W. Fortelius", "G. Gris", "L. Keller", "L. Passera", "R. Rosengren", "E. L. Vargo", "F. Walter"]
 publication_types: ["2"]
 abstract: ""

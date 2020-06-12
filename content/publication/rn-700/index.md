@@ -1,7 +1,7 @@
 ---
 title: "Metabolism of imidacloprid in workers of Reticulitermes flavipes (Isoptera: Rhinotermitidae)"
 date: 2010-01-01
-publishDate: 2019-11-12T15:47:40.991275Z
+publishDate: 2020-06-12T04:08:35.233563Z
 authors: ["Michael Tomalski", "William Leimkuehler", "Coby Schal", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

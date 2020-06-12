@@ -1,7 +1,7 @@
 ---
 title: "Queen number and the production of sexuals in the fire ant, Solenopsis invicta (Hymenoptera: Formicidae)"
 date: 1986-01-01
-publishDate: 2019-11-12T15:47:41.160906Z
+publishDate: 2020-06-12T04:08:35.476958Z
 authors: ["Edward L. Vargo", "David J. C. Fletcher"]
 publication_types: ["2"]
 abstract: ""

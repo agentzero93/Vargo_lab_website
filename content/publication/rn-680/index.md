@@ -1,7 +1,7 @@
 ---
 title: "Gyne development in the Argentine ant Iridomyrmex humilis: role of overwintering and queen control"
 date: 1992-01-01
-publishDate: 2019-11-12T15:47:41.337110Z
+publishDate: 2020-06-12T04:08:35.740986Z
 authors: ["Edward L. Vargo", "Luc Passera"]
 publication_types: ["2"]
 abstract: ""

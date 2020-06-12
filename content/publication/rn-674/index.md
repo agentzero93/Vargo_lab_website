@@ -1,7 +1,7 @@
 ---
 title: "Colony genetic structure and queen mating frequency in fire ants of the subgenus Solenopsis (Hymenoptera: Formicidae)"
 date: 1988-01-01
-publishDate: 2019-11-12T15:47:40.854729Z
+publishDate: 2020-06-12T04:08:35.051080Z
 authors: ["Kenneth G. Ross", "Edward L. Vargo", "David J. C. Fletcher"]
 publication_types: ["2"]
 abstract: ""

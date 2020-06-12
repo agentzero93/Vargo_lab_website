@@ -1,7 +1,7 @@
 ---
 title: "New introductions, spread of existing matrilines, and high rates of pyrethroid resistance result in chronic infestations of bed bugs (Cimex lectularius L.) in lower-income housing"
 date: 2016-01-01
-publishDate: 2019-11-12T15:47:40.795255Z
+publishDate: 2020-06-12T04:08:34.965150Z
 authors: ["Ronald W. Raab", "Julia E. Moore", "Edward L. Vargo", "Lucy Rose", "Julie Raab", "Madeline Culbreth", "Gracie Burzumato", "Aurvan Koyee", "Brittany McCarthy", "Jennifer Raffaele", "Coby Schal", "Rajeev Vaidyanathan"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Genetic structure of Reticulitermes flavipes and R. virginicus (Isoptera: Rhinotermitidae) colonies in an urban habitat and tracking of colonies following treatment with hexaflumuron bait"
 date: 2003-01-01
-publishDate: 2019-11-12T15:47:41.096965Z
+publishDate: 2020-06-12T04:08:35.390175Z
 authors: ["Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

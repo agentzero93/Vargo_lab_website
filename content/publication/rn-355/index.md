@@ -1,7 +1,7 @@
 ---
 title: "The diminutive supercolony: the Argentine ants of the southeastern United States"
 date: 2004-01-01
-publishDate: 2019-11-12T15:47:40.434483Z
+publishDate: 2020-06-12T04:08:34.392511Z
 authors: ["Grzegorz Buczkowski", "Edward L. Vargo", "Jules Silverman"]
 publication_types: ["2"]
 abstract: ""

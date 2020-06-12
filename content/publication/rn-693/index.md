@@ -1,7 +1,7 @@
 ---
 title: "Population genetic structure and colony breeding system in dampwood termites (Zootermopsis angusticollis and Z. nevadensis nuttingi)"
 date: 2012-01-01
-publishDate: 2019-11-12T15:47:40.338329Z
+publishDate: 2020-06-12T04:08:34.291815Z
 authors: ["W. Booth", "C. S. Brent", "D. V. Calleri", "R. B. Rosengaus", "J. F. A. Traniello", "E. L. Vargo"]
 publication_types: ["2"]
 abstract: ""

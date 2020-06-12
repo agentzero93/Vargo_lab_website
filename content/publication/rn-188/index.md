@@ -1,7 +1,7 @@
 ---
 title: "Is it easy to be urban? Convergent success in urban habitats among lineages of a widespread native ant"
 date: 2010-01-01
-publishDate: 2019-11-12T15:47:40.728064Z
+publishDate: 2020-06-12T04:08:34.870543Z
 authors: ["Sean B. Menke", "Warren Booth", "Robert R. Dunn", "Coby Schal", "Edward L. Vargo", "Jules Silverman"]
 publication_types: ["2"]
 abstract: ""

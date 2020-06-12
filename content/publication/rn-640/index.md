@@ -1,7 +1,7 @@
 ---
 title: "Identification of a pheromone regulating caste differentiation in termites"
 date: 2010-01-01
-publishDate: 2019-11-12T15:47:40.686298Z
+publishDate: 2020-06-12T04:08:34.811511Z
 authors: ["Kenji Matsuura", "Chihiro Himuro", "Tomoyuki Yokoi", "Yuuka Yamamoto", "Edward L. Vargo", "Laurent Keller"]
 publication_types: ["2"]
 abstract: ""

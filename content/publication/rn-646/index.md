@@ -1,7 +1,7 @@
 ---
 title: "Survey of Bartonella spp. in U.S. bed bugs detects Burkholderia multivorans but not Bartonella"
 date: 2013-01-01
-publishDate: 2019-11-12T15:47:40.894667Z
+publishDate: 2020-06-12T04:08:35.092104Z
 authors: ["Virna L. Saenz", "Ricardo G. Maggi", "Edward B. Breitschwerdt", "Jung Kim", "Edward L. Vargo", "Coby Schal"]
 publication_types: ["2"]
 abstract: ""

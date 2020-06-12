@@ -1,7 +1,7 @@
 ---
 title: "Genetic analysis of bed bug populations reveals small propagule size within individual infestations but high genetic diversity across infestations from the eastern United States"
 date: 2012-01-01
-publishDate: 2019-11-12T15:47:40.878283Z
+publishDate: 2020-06-12T04:08:35.078372Z
 authors: ["Virna L. Saenz", "Warren Booth", "Coby Schal", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""

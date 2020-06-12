@@ -1,7 +1,7 @@
 ---
 title: "Suppressing tawny crazy ant (Nylanderia fulva) by RNAi technology"
 date: 2018-01-01
-publishDate: 2019-11-12T15:47:40.715245Z
+publishDate: 2020-06-12T04:08:34.855894Z
 authors: ["Jia Meng", "Jiaxin Lei", "Andrew Davitt", "Jocelyn R. Holt", "Jian Huang", "Roger Gold", "Edward L. Vargo", "Aaron M. Tarone", "Keyan Zhu-Salzman"]
 publication_types: ["2"]
 abstract: ""

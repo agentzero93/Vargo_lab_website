@@ -1,7 +1,7 @@
 ---
 title: "Genetic analysis of the breeding system of an invasive subterranean termite, Reticulitermes santonensis, in urban and natural habitats"
 date: 2005-01-01
-publishDate: 2019-11-12T15:47:40.506160Z
+publishDate: 2020-06-12T04:08:34.478682Z
 authors: ["Stephanie Dronnet", "Michel Chapuisat", "Edward L. Vargo", "Caroline Lohou", "Anne-Genevieve Bagneres"]
 publication_types: ["2"]
 abstract: ""

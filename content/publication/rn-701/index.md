@@ -1,7 +1,7 @@
 ---
 title: "Characterization of 8 polymorphic microsatellite loci in the neotropical ant-garden ant, Camponotus femoratus (Fabricius)"
 date: 2009-01-01
-publishDate: 2019-11-12T15:47:40.407600Z
+publishDate: 2020-06-12T04:08:34.365549Z
 authors: ["Warren Booth", "Elsa Youngsteadt", "Coby Schal", "Edward L. Vargo"]
 publication_types: ["2"]
 abstract: ""
