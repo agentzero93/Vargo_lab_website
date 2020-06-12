@@ -38,4 +38,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 # user_groups:
 ---
-# **Website under construction**
+# ![lab pic](https://i.imgflip.com/44wg85.jpg)
