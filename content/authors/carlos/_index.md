@@ -39,6 +39,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:cague001@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=JGELAjgAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Carlos_Aguero4
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0001-6222-6994 
   # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
