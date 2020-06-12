@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Mosquitoes
   - Population Genetics
-  - Vegan :leaves:
+  - Vegan :seedling::
 
 education:
   courses:
