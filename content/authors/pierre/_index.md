@@ -74,4 +74,4 @@ I graduated in 2014 with a PhD in Ecology and Evolutionary Biology in Serge Aron
 
 As a post-doc in Abraham Hefetz’s lab at Tel Aviv University, and at the Museum of Natural History in Paris in Claudie Doums’ lab, I investigated how distinct reproductive strategies, having profound implications in dispersion, differentially shape the exchange of gene flow among populations and, hence speciation processes.
 
-A year ago, I joined Ed Vargo’s lab in Texas A&M University to unravel how introduced species exhibit pre-adaptative or post-introduction plasticity in reproductive strategies allowing them to circumvent genetic depletion to successfully establish and achieve local dominance after a founder event.
+In 2017, I joined Ed Vargo’s lab in Texas A&M University to unravel how introduced species exhibit pre-adaptative or post-introduction plasticity in reproductive strategies allowing them to circumvent genetic depletion to successfully establish and achieve local dominance after a founder event.
