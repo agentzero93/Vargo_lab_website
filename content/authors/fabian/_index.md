@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: MSc in
-    institution:
-    year: 
-  - course: BSc in
-    institution:
-    year: 
+  - course: MSc in Biology
+    institution: University of Hamburg
+    year: 2016
+  - course: BSc in Biology
+    institution: Heinrich-Heine University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
