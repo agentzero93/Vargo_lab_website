@@ -1,5 +1,5 @@
 ---
-title: Carlos's paper published in Scientific Reports!
+title: Carlos' paper published in Scientific Reports!
 
 # View.
 #   1 = List
