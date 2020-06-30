@@ -30,7 +30,7 @@ education:
   - course: MSc in Entomology
     institution: Louisiana State University, Baton Rouge
     year: 2019
-  - course: BSc in Insect Ecology & BSc in Wildlife Conservation and Ecology
+  - course: BSc in Entomology & BSc in Wildlife Conservation
     institution: University of Delaware
     year: 2016
 
@@ -56,4 +56,4 @@ email: ""
 user_groups:
 - Technicians
 ---
-## **Biography**
+I am interested in the biology and control of medical and urban insect pests. I received my M.S. in entomology from Louisiana State University, where I studied the thermal biology of mosquitoes. My primary role at the Rollins Urban and Structural Entomology Facility is to assist with industry-sponsored projects testing methods for the elimination of economically important insect pests. I also assist graduate students and postdocs with research on population genetics and the biology of social insects. 
