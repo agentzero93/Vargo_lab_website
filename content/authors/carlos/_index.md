@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Termites
-- Disease Ecology
+- Social Immunity
 - The Simpsons 📺
 
 education:
@@ -63,3 +63,9 @@ user_groups:
 - Graduate Students
 ---
 ## **Biography**
+I received my BSc in Entomology from the University of California, Riverside. Now, I am a PhD student at Texas A&M University and I study social immunity in subterranean termites.
+
+My PhD research investigates:
+-The effects of genetic diversity on pathogen susceptibility
+-The microbial communities harbored in termite nests
+-The behavior of pathogen-infected workers
