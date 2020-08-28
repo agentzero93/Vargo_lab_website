@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
 ---
-![image](static/img/biol_inv.pdf)
+![image](https://github.com/agentzero93/Vargo_lab_website/blob/master/static/img/biol_inv.pdf?raw=true)
 
 The rise of global trade has fueled the spread of many species outside of their native ranges. Species introductions are associated with radical and rapid changes in ecological pressures these species used to face in their native ranges, which are usually concomitant to a reduction of their genetic diversity during the founder event. As a result, introduced populations often exhibit changes in their life history traits.
 
