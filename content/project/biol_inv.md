@@ -10,8 +10,10 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "biol_inv.jpg"
+  image: ""
 ---
+![image](https://github.com/agentzero93/Vargo_lab_website/blob/master/static/img/biol_inv.pdf)
+
 The rise of global trade has fueled the spread of many species outside of their native ranges. Species introductions are associated with radical and rapid changes in ecological pressures these species used to face in their native ranges, which are usually concomitant to a reduction of their genetic diversity during the founder event. As a result, introduced populations often exhibit changes in their life history traits.
 
 In this context, we question whether invasive social insects exhibit variations from the classical mating system and colony structure (consisting of a colony headed by a unique queen inhabiting a single nest) that allow them to overcome the genetic depletion and spread in their novel environment. For example, we showed that the lack of aggression between workers from different nests of the tawny crazy ant *Nylanderia fulva* enables the formation of a single supercolony spanning over the entire southeastern US. Their populations form dense networks of nests exchanging workers and reproductives, which are therefore genetically uniform across the whole invasive range. In the Asian needle ant *Brachyponera chinensis*, inbreeding pre-exists in the native range, and potentially predisposed this species to the severe loss of genetic diversity they experienced during the introduction. While, in contrast, other invasive species, such as the dark rover ant *Brachymyrmex patagonicus*, successfully thrives despite exhibit a classical mating system.
