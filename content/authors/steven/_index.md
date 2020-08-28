@@ -51,6 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Technicians
+- Alumni
 ---
 ## **Biography**
+**Currently**: Pursuing a MSc in Entomology at Louisiana State University in the Sun Lab (https://www.qiansunlab.com/).
