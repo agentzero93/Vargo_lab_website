@@ -53,5 +53,4 @@ email: ""
 user_groups:
 - Alumni
 ---
-## **Biography**
 **Currently**: Pursuing a MSc in Entomology at Louisiana State University in the Sun Lab (https://www.qiansunlab.com/).
