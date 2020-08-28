@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Megan Morano
+name: Megan Moran
 
 # Username (this should match the folder name)
 authors:
