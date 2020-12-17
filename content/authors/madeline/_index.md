@@ -54,6 +54,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Technicians
+- Alumni
 ---
 I am interested in the biology and control of medical and urban insect pests. I received my M.S. in entomology from Louisiana State University, where I studied the thermal biology of mosquitoes. My primary role at the Rollins Urban and Structural Entomology Facility is to assist with industry-sponsored projects testing methods for the elimination of economically important insect pests. I also assist graduate students and postdocs with research on population genetics and the biology of social insects. 
