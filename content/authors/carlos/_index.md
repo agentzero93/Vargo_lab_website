@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 ---
 ## **Biography**
 I received my BSc in Entomology from the University of California, Riverside. Now, I am a PhD student at Texas A&M University and I study social immunity in subterranean termites.
