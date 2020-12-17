@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Technician
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
