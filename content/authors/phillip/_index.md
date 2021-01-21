@@ -48,6 +48,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Phillip_Shults
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0003-2498-9637
   # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
