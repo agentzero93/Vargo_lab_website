@@ -61,6 +61,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Graduate Students
+- Staff
 ---
 ## **Biography**
 I graduated from Texas A&M University in 2011 with a degree in Entomology. After graduation, I worked in the pest control industry before returning to A&M as a research assistant under Dr. Roger Gold. I completed my Master’s degree in 2015 studying the taxonomy of a group of biting flies in the genus *Culicoides*.
