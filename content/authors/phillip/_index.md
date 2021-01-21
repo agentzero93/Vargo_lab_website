@@ -68,4 +68,4 @@ I graduated from Texas A&M University in 2011 with a degree in Entomology. After
 
 Currently, I am a research associate in the Ed Vargo lab where I carry out industry sponsored research trials. I also assist in urban pest management training and continued education through the Phillip J. Hammond termite training course, Texas A&M University correspondence corse in termite biology, and urban pest management conferences and workshops.
 
-Additionally, I am working towards the completion of my PhD under Dr. Ed Vargo. My research is focused on the population structure and evolutionary history within Culicoides biting midges.
+Additionally, I am working towards the completion of my PhD under Dr. Ed Vargo. My research is focused on the population structure and evolutionary history within *Culicoides* biting midges.
