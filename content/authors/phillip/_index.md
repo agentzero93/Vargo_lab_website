@@ -69,6 +69,6 @@ user_groups:
 ## **Biography**
 I graduated from Texas A&M University in 2011 with a degree in Entomology. After graduation, I worked in the pest control industry before returning to A&M as a research assistant under Dr. Roger Gold. I completed my Master’s degree in 2015 studying the taxonomy of a group of biting flies in the genus *Culicoides*.
 
-Currently, I am a research associate in the Ed Vargo lab where I carry out industry sponsored research trials. I also assist in urban pest management training and continued education through the Phillip J. Hammond termite training course, Texas A&M University correspondence corse in termite biology, and urban pest management conferences and workshops.
+Currently, I am a research associate in the Ed Vargo lab where I carry out industry sponsored research trials. I also assist in urban pest management training and continued education through the Phillip J. Hammond termite training course, Texas A&M University correspondence course in termite biology, and urban pest management conferences and workshops.
 
 Additionally, I am working towards the completion of my PhD under Dr. Ed Vargo. My research is focused on the population structure and evolutionary history within *Culicoides* biting midges.
